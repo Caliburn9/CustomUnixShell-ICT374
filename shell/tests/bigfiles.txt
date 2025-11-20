@@ -1,0 +1,10 @@
+ 1041 total
+  258 ./shell_utils.c
+  237 ./command.c
+  211 ./myshell.c
+  162 ./input.c
+  113 ./token.c
+   47 ./shell_builtins.c
+   13 ./tests/show.c
+    0 ./tests/abcxyz.ccc
+    0 ./tests/abcxyz.c
